@@ -1,2 +1,1 @@
-# CreditCard-FraudDetection
-Credit Card Fraud detection using Machine Learning
+Loan approval prediction involves the analysis of various factors, such as the applicant’s financial history, income, credit rating, employment status, and other relevant attributes. By leveraging historical loan data and applying machine learning algorithms, this model aims to reduce lending risk and improve the overall application processing time.
